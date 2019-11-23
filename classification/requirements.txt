@@ -1,0 +1,11 @@
+numpy
+Pillow
+matplotlib
+jpeg2dct
+sklearn
+PyTurboJPEG
+tensorboardX
+opencv-python
+lmdb
+pyarrow
+scikit-image
