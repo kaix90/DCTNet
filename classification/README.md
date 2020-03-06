@@ -7,6 +7,7 @@ Classification on ImageNet with PyTorch.
 * PyTorch >= 1.2.0
 * opencv-python 4.1.1
 * libjpeg-turbo 2.0.3
+* [jpeg2dct](https://github.com/uber-research/jpeg2dct)
 
 ## Install
 * Install [PyTorch](http://pytorch.org/)
@@ -72,8 +73,8 @@ bash scripts/resnet_upscaled_static.sh 64
 | [DCT-24 (ours)][4] |     24    |      112x112     | 72.364 | 90.606 |
 | [DCT-32 (ours)][5] |     32    |      112x112     | 72.282 | 90.592 |
 
-[1]: https://drive.google.com/open?id=1GlImzw3_PRNFgieS-VsNWZRGqq-xGoKS
-[2]: https://drive.google.com/open?id=1Xsl6pt-XJ2aNIVYDFc5XqiW4_SRPSRf7
-[3]: https://drive.google.com/open?id=1_gj5kmNCiTHx2DKRYOlG7cLWPwEUDVwR
-[4]: https://drive.google.com/open?id=1xhpgvu2BhNh0lwVxM0DPORtaMSYaWb-8
-[5]: https://drive.google.com/open?id=1i6RjqyVvloZwAFxvmeKfF6UWbWqMLHJ4
+[1]: https://drive.google.com/open?id=1UMwdQV73z-pk43X__gZQBidE-T_NlPaO
+[2]: https://drive.google.com/open?id=1V3qZFZdL62-6U4Q-gTpEuW5FiEdBIJ3F
+[3]: https://drive.google.com/open?id=13n20xpW6Of6AdCsOyH5NXreyFIiE82uP
+[4]: https://drive.google.com/open?id=15f3hWj8o8dFdeyIJac_k1dkkrhzs1uPz
+[5]: https://drive.google.com/open?id=1O9Pi9a8SpoSFTEsPoZJesbYrMzO21Wno

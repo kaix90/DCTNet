@@ -10,6 +10,7 @@ a part of the open-mmlab project developed by [Multimedia Laboratory, CUHK](http
 * PyTorch >= 1.2.0
 * libjpeg-turbo 2.0.3
 * [MMDetection](https://github.com/open-mmlab/mmdetection)
+* [jpeg2dct](https://github.com/uber-research/jpeg2dct)
 
 ## Install
 * Please refer to [INSTALL.md](docs/INSTALL.md) for installation and dataset preparation.
@@ -78,8 +79,8 @@ python tools/test.py configs/faster_rcnn_r50_fpn_1x_static_64_wofreeze.py work_d
 | [DCT-24 (ours)][4]  |     24    |      200x334     | 37.2 |  58.8  |   39.9  | 21.9 | 40.7 | 48.9 |
 | [DCT-64 (ours)][5]  |     64    |      200x334     | 37.2 |  58.5  |   40.6  | 21.9 | 40.9 | 48.3 |
 
-[1]: https://drive.google.com/open?id=1UKmNORizsulH9E4awxjBR4fAlW1KlC5s
-[2]: https://drive.google.com/open?id=14eTsI_LMjjQHyx_uOsb_DSy2pAIZFny-
-[3]: https://drive.google.com/open?id=18WbbwpQuoAt--GMlZuWhNLjxN83A0g_i
-[4]: https://drive.google.com/open?id=1oZbwA0QD7H8PCJ2O_RWQ6Eibi99zkgK7
-[5]: https://drive.google.com/open?id=1IpZ21gCeL_3k6B5E8BEj_UVB7IbiyWs1
+[1]: https://drive.google.com/open?id=15Xz7fR2_tcUo1Wp2cTTA33ncKJHMpwua
+[2]: https://drive.google.com/open?id=1zwysqiAN5pxljHIcnSj8vef7HFtMkQ6e
+[3]: https://drive.google.com/open?id=11gKo2w1pDYIfwixO93DRiIjZMip9ypJ5
+[4]: https://drive.google.com/open?id=142n0OX3_c0Y8IAjTb-kU_mdAArEvwa1c
+[5]: https://drive.google.com/open?id=1DWySizK_UDK91CqCP_h8D-EW27cjz1HV
