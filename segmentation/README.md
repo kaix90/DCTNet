@@ -79,8 +79,8 @@ python tools/test.py configs/faster_rcnn_r50_fpn_1x_static_64_wofreeze.py work_d
 | [DCT-24 (ours)][4]  |     24    |      200x334     | 37.2 |  58.8  |   39.9  | 21.9 | 40.7 | 48.9 |
 | [DCT-64 (ours)][5]  |     64    |      200x334     | 37.2 |  58.5  |   40.6  | 21.9 | 40.9 | 48.3 |
 
-[1]: https://drive.google.com/open?id=15Xz7fR2_tcUo1Wp2cTTA33ncKJHMpwua
-[2]: https://drive.google.com/open?id=1zwysqiAN5pxljHIcnSj8vef7HFtMkQ6e
-[3]: https://drive.google.com/open?id=11gKo2w1pDYIfwixO93DRiIjZMip9ypJ5
-[4]: https://drive.google.com/open?id=142n0OX3_c0Y8IAjTb-kU_mdAArEvwa1c
-[5]: https://drive.google.com/open?id=1DWySizK_UDK91CqCP_h8D-EW27cjz1HV
+[1]: https://drive.google.com/open?id=17Ibr0djHyGoaFkliL8apOi6sD3ZEGj1l
+[2]: https://drive.google.com/open?id=1lPFgnQB4M8ILseFa--oCnALhXL_T2v7C
+[3]: https://drive.google.com/open?id=1vbSyMLhpJtqD9h6dzbyXbMKVG_lCYeIq
+[4]: https://drive.google.com/open?id=13LJtA03tZUoSJm77DPOOEXrLmHUCULGc
+[5]: https://drive.google.com/open?id=1ojA3SF1BwpBmXyRDxwOqCCcJQ5Hj97PQ
