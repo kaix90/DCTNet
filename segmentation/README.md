@@ -79,8 +79,8 @@ python tools/test.py configs/faster_rcnn_r50_fpn_1x_static_64_wofreeze.py work_d
 | [DCT-24 (ours)][4]  |     24    |      200x334     | 37.2 |  58.8  |   39.9  | 21.9 | 40.7 | 48.9 |
 | [DCT-64 (ours)][5]  |     64    |      200x334     | 37.2 |  58.5  |   40.6  | 21.9 | 40.9 | 48.3 |
 
-[1]: https://drive.google.com/open?id=17Ibr0djHyGoaFkliL8apOi6sD3ZEGj1l
-[2]: https://drive.google.com/open?id=1lPFgnQB4M8ILseFa--oCnALhXL_T2v7C
-[3]: https://drive.google.com/open?id=1vbSyMLhpJtqD9h6dzbyXbMKVG_lCYeIq
-[4]: https://drive.google.com/open?id=13LJtA03tZUoSJm77DPOOEXrLmHUCULGc
-[5]: https://drive.google.com/open?id=1ojA3SF1BwpBmXyRDxwOqCCcJQ5Hj97PQ
+[1]: https://drive.google.com/drive/folders/1bcNYuWx4EARkDEWrlKf4BN1FroT9ec0u?usp=sharing
+[2]: https://drive.google.com/drive/folders/1WwjRxkMjKlHQXzOJILp7hYnULgK8FPCE?usp=sharing
+[3]: https://drive.google.com/drive/folders/10OFXeeTwf902FOtG_pI7aeVaHB5QnnDF?usp=sharing
+[4]: https://drive.google.com/drive/folders/10X0k7ZvguajLhjBsiCaqFbR79N7y6USK?usp=sharing
+[5]: https://drive.google.com/drive/folders/1NFDt_uBY-kAOGLoR99r_MBfcIXKVPVd2?usp=sharing
