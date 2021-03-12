@@ -75,8 +75,8 @@ bash scripts/resnet_upscaled_static.sh 64
 | [DCT-24 (ours)][4] |     24    |      112x112     | 72.364 | 90.606 |
 | [DCT-32 (ours)][5] |     32    |      112x112     | 72.282 | 90.592 |
 
-[1]: https://drive.google.com/open?id=1Wl9JDY1zJPtkcRBpVojQ9ERtxul7k9rt
-[2]: https://drive.google.com/open?id=1eZosbUN1-MwdIOk6ANrca049kztV-Gv2
-[3]: https://drive.google.com/open?id=1eluAU8gngxMFL7ti73qv7vyrTujhGZA9
-[4]: https://drive.google.com/open?id=1wkAFUDDj6wUVKLuFjlPvvaHTOsROOaRk
-[5]: https://drive.google.com/open?id=1QaDqumx9j4cGgcJuQVzYSIPiaClOKZj3
+[1]: https://drive.google.com/drive/folders/1eC9xBexK4aKoNzPRiLU2sYu_UyYm3TRU?usp=sharing
+[2]: https://drive.google.com/drive/folders/1C8iFO23jb4YablK5q8QDqNIeobLDgCk4?usp=sharing
+[3]: https://drive.google.com/drive/folders/1-A7XdSAYsfD_liZsK1hQv-UaaMNhA4Sm?usp=sharing
+[4]: https://drive.google.com/drive/folders/1gdBlmSetHe2-eH2Jo3kr39qLHdQsRNCl?usp=sharing
+[5]: https://drive.google.com/drive/folders/1ZcD1tAyHzhyKGqjozR9M_9EKpqVhYOMe?usp=sharing
