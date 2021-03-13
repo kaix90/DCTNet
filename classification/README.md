@@ -1,4 +1,4 @@
-# Training code can be downloaded at: https://drive.google.com/file/d/1uyaS805ttmvxWFWzo0MFFKDnvz8EmoSs/view?usp=sharing.
+# Training code can be downloaded at: https://drive.google.com/file/d/1jaf4iB66mAn_J5iDwqvha2xAj4AVyx3y/view?usp=sharing.
 
 # Learning in the Frequency Domain
 Classification on ImageNet with PyTorch.
