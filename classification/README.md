@@ -80,3 +80,14 @@ bash scripts/resnet_upscaled_static.sh 64
 [3]: https://drive.google.com/drive/folders/1-A7XdSAYsfD_liZsK1hQv-UaaMNhA4Sm?usp=sharing
 [4]: https://drive.google.com/drive/folders/1gdBlmSetHe2-eH2Jo3kr39qLHdQsRNCl?usp=sharing
 [5]: https://drive.google.com/drive/folders/1ZcD1tAyHzhyKGqjozR9M_9EKpqVhYOMe?usp=sharing
+
+If you use our code/models in your research, please cite our paper:
+```
+@InProceedings{Xu_2020_CVPR,
+  author = {Xu, Kai and Qin, Minghai and Sun, Fei and Wang, Yuhao and Chen, Yen-Kuang and Ren, Fengbo},
+  title = {Learning in the Frequency Domain},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2020}
+}
+```
