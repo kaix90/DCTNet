@@ -7,3 +7,14 @@
 * To the best of our knowledge, this is the first work that explores learning in the frequency domain for high-level vision tasks, such as object detection and instance segmentation.
 
 Please refer to the [image classfication](classification) and [instance segmentation](segmentation) sections for more details.
+
+If you use our code/models in your research, please cite our paper:
+```
+@InProceedings{Xu_2020_CVPR,
+  author = {Xu, Kai and Qin, Minghai and Sun, Fei and Wang, Yuhao and Chen, Yen-Kuang and Ren, Fengbo},
+  title = {Learning in the Frequency Domain},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2020}
+}
+```
